@@ -1,0 +1,24 @@
+{
+  "name": "scss-jaska",
+  "version": "1.0.0",
+  "description": "npm i scss-jaska",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasurhaydarovcode/npm-jaska.git"
+  },
+  "keywords": [
+    "npm",
+    "scss",
+    "scss-starter"
+  ],
+  "author": "Jasurbek Haydarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasurhaydarovcode/npm-jaska/issues"
+  },
+  "homepage": "https://github.com/jasurhaydarovcode/npm-jaska#readme"
+}
